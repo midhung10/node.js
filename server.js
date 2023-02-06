@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
   res.send(`
     <html>
       <body>
-        <img src="/images/your-image.jpg" alt="Your Image">
+       <img src="/images/your-image.jpg" alt="Your Image" width="500" height="300">
         <p>Hello, Node.js</p>
       </body>
     </html>
