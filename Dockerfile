@@ -15,3 +15,4 @@ COPY . .
 
 # Specify the command to run the node.js application
 CMD ["node", "server.js"]
+
