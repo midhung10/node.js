@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "this a test from test folder false testing"
+echo "this a test from test folder false testing jenkins"
