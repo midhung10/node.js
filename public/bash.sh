@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "this a test from project folder"
+echo "this a test from project folderm"
