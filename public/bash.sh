@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "this a test from project folderm"
+echo "this a test from project folde testing poll scm"
