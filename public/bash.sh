@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "this a test from project folde tesfdsfting poll scm upghhdated testing github fdf"
+echo "this a test from project folde rfgvftesfdsfting poll scm frf testing github fdf"
