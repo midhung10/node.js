@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "this a test from tesfrffefefefefeft fofefldefeferererer ferereralse testing jenkins"
+echo "this a test from tesfrffefefefefeft eeeerer ferereralse testing jenkins"
+e
