@@ -4,7 +4,7 @@ FROM node:14efddfdfs
 # Set the working directory in the container
 WORKDIR /app
 
-# Copy the package.json file to the container
+# Copy the package.json file to the containerfe
 COPY package.json .
 
 # Install the dependencies
