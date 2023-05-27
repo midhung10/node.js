@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "thisnaijefnebf a test fdddddddddrom tesfrffefefefefeft eeeerdfdfdfffffdfer fereregggggrjhgvgvgvalse testing jenkinijshdbhdbs"
+echo "thisnaijefnebf a test fdddddddddrom tesfrffefefefefffffeft eeeerdfdfdfffffdfer fereregggggrjhgvgvgvalse testing jenkinijshdbhdbs"
 e
