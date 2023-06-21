@@ -9,7 +9,7 @@ app.get("/", (req, res) => {
       <body>
        <img src="/images/your-image.jpg" alt="Your Image" width="500" height="300">
         <p>Hello, Node.js</p>
-      </body>
+      </body>vfgff
     </html>
   `);
 });
